@@ -1,2 +1,2 @@
-# -dev-1-Notlar-m
-Google Oyun ve Uygulama Akademisi Unity Notları
+# Odev-1-Notlarim
+Google Oyun ve Uygulama Akademisi Unity (C#) Notları
