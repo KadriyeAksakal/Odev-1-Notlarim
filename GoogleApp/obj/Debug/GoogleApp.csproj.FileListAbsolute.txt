@@ -1,0 +1,6 @@
+/Users/kadriyeaksakal/Projects/GoogleApp/GoogleApp/bin/Debug/GoogleApp.exe
+/Users/kadriyeaksakal/Projects/GoogleApp/GoogleApp/bin/Debug/GoogleApp.pdb
+/Users/kadriyeaksakal/Projects/GoogleApp/GoogleApp/obj/Debug/GoogleApp.csproj.AssemblyReference.cache
+/Users/kadriyeaksakal/Projects/GoogleApp/GoogleApp/obj/Debug/GoogleApp.csproj.CoreCompileInputs.cache
+/Users/kadriyeaksakal/Projects/GoogleApp/GoogleApp/obj/Debug/GoogleApp.exe
+/Users/kadriyeaksakal/Projects/GoogleApp/GoogleApp/obj/Debug/GoogleApp.pdb
